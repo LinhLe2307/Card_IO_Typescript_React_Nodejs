@@ -1,6 +1,6 @@
 [submodule "Flash_card_app_Nodejs"]
 	path = Flash_card_app_Nodejs
-	url = ./Flash_card_app_Nodejs
+	url = https://github.com/LinhLe2307/Flash_card_app_Nodejs.git
 [submodule "Flash_card_app_React_TypeScript"]
 	path = Flash_card_app_React_TypeScript
-	url = ./Flash_card_app_React_TypeScript
+	url = https://github.com/LinhLe2307/Flash_card_app_React_TypeScript.git
